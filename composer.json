@@ -1,0 +1,20 @@
+{
+  "name": "theyellowdev/symfony-chart-bundle",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "The Yellow Dev"
+    }
+  ],
+  "require": {
+    "php": ">=8.2",
+    "symfony/ux-chartjs": "^2.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "TheYellowDev\\ChartBundle\\": "src/"
+    }
+  }
+}
