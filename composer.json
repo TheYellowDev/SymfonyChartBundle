@@ -1,7 +1,6 @@
 {
   "name": "theyellowdev/symfony-chart-bundle",
   "description": "description",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
